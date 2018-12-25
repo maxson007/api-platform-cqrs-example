@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/api-cqrs-lab.iml" filepath="$PROJECT_DIR$/.idea/api-cqrs-lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cqrs_sf4_lab/.idea/cqrs_sf4_lab.iml" filepath="$PROJECT_DIR$/../cqrs_sf4_lab/.idea/cqrs_sf4_lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vavo-shofera-web-app/.idea/vavo_shofera.iml" filepath="$PROJECT_DIR$/../vavo-shofera-web-app/.idea/vavo_shofera.iml" />
+    </modules>
+  </component>
+</project>

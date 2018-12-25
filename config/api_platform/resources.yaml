@@ -1,0 +1,10 @@
+resources:
+    App\Dto\MobileDevice:
+        itemOperations:
+            get:
+                method: 'GET'
+                path: '/mobile/device/{id}'
+        collectionOperations:
+            post:
+                method: 'POST'
+                path: '/mobile/device'
